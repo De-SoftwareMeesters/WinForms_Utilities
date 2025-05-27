@@ -25,7 +25,7 @@ Install via source (no NuGet package yet):
 git clone https://github.com/De-SoftwareMeesters/winforms-utilities.git
 ````
 
-Then include the relevant `.cs` files from the `Shared.Windows.UI` namespace in your project.
+Then include the relevant `.cs` files from the `SoftwareMeesters.Windows.UI` namespace in your project.
 
 ---
 
