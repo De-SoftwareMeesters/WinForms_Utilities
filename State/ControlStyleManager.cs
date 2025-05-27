@@ -6,7 +6,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace SoftwareMeesters.Windows.UI
+namespace SoftwareMeesters.Windows.UI.State
 {
     public class ControlStateStyleManager
     {

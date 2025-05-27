@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Threading;
 
-namespace SoftwareMeesters.Windows.UI
+namespace SoftwareMeesters.Windows.UI.State
 {
     public class ControlStateGroup<T>
     {

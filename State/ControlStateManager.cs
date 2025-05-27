@@ -7,7 +7,7 @@ using System.Threading.Tasks;
 using System.Windows.Forms;
 using DevExpress.XtraGrid.Columns;
 
-namespace SoftwareMeesters.Windows.UI
+namespace SoftwareMeesters.Windows.UI.State
 {
     public class ControlStateManager<T>
     {

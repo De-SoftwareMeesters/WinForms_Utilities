@@ -1,4 +1,4 @@
-﻿namespace SoftwareMeesters.Windows.UI
+﻿namespace SoftwareMeesters.Windows.UI.State
 {
     public enum ControlStateTexts
     {

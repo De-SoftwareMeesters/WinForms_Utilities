@@ -7,7 +7,7 @@ using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 
-namespace SoftwareMeesters.Windows.UI
+namespace SoftwareMeesters.Windows.UI.State
 {
     public class ControlStateTextManager<T>
     {
